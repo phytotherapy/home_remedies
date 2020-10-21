@@ -5,8 +5,18 @@ Then, look on that page for what exact plant is used and what method is used to 
 Then, browse to the relevant method of preparation page on this repo.
 Your herbal recipe should be listed there.
 
-Warning and disclaimer
+QR-code
+You will also find a QR-code on the repo.
+This is to allow herb nurseries and sellers of dried herbs to place
+this QR-code (after printing it out) on their packaging so that
+customers can use this herb for making home remedies.
+This is intented as a concept for these companies as they might not want
+to make use of our repo, but rather clone this, change the herbal recipes
+to make it suit their company completely and also not be dependant on us.
+After cloning and changing the cloned repo, they can make their own QR-code
+using a (freeware) online QR-code generator.
 
+Warning and disclaimer
 None of the herbal recipes mentioned here are to be used or trusted.
 They should be seen as experimental in nature and possibly incorrect.
 Instead of using the herbal recipes mentioned here, use recipes from the book on which the herbal recipes mentioned on this repo are based.
